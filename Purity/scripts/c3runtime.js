@@ -4395,6 +4395,7 @@ self.C3_JsPropNameTable = [
 	{ClickToStart: 0},
 	{Lost: 0},
 	{RunGame: 0},
+	{RunIntro: 0},
 	{XValue: 0}
 ];
 }
