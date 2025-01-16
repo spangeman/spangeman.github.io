@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://spangeman.github.io/DemoApp/DemoApp.Packaging.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="9715ef2e-0b7c-46d4-809a-4a964e990a74"
+		Version="1.0.1.0"
+		Publisher="CN=azh"
+		Uri="https://spangeman.github.io/DemoApp/DemoApp.Packaging_1.0.1.0_Debug_Test/DemoApp.Packaging_1.0.1.0_x64_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
